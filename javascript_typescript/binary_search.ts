@@ -4,7 +4,6 @@
   algorithm: Binary Search
 
 */
-
 let my_array :number[] = [];
 
 for(let i = 0; i < 100; i++) {
